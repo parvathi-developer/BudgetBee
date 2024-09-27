@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474066339296",
+    "project_id": "budgetbee-6052f",
+    "storage_bucket": "budgetbee-6052f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474066339296:android:2afc9d177ab262ae39d785",
+        "android_client_info": {
+          "package_name": "com.parvathi.budget_bee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Bi3UCFXpqRdYgkvMCspTcWCRa6Q55vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
